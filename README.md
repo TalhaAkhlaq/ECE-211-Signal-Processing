@@ -15,7 +15,7 @@ Coursework for ECE 211 covering signals-and-systems foundations in time, frequen
 
 ## Copyright & Licensing
 
-Copyright (C) 2024 Talha Akhlaq <>
+Copyright (C) 2024 Talha Akhlaq
 
 Distributed under the MIT License. See LICENSE for details.
 ##
