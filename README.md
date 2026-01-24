@@ -1,4 +1,4 @@
-# ECE-211-Signal-Processing
+# Signal Processing
 
 Coursework for ECE 211 covering signals-and-systems foundations in time, frequency, and transform domains, with an emphasis on analytical derivations and MATLAB-based implementation.
 
